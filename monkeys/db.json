@@ -11,8 +11,8 @@
             "id": 2,
             "name": "Mr post-it",
             "email": "oui@hein.com",
-            "comment": "Likes arts, especially when it is draw on post-it",
-            "spicies": "product",
+            "comment": "Love drawings, especially if it's drawn on a post-it",
+            "species": "product",
             "img": "https://cdn.quotesgram.com/img/39/94/228779640-Funny-Monkeys-With-Glasses-17.jpg"
         },
         {
@@ -45,7 +45,7 @@
             "email": "resilent@résilié.com",
             "img": "https://www.rd.com/wp-content/uploads/2020/12/GettyImages-857504954.jpg",
             "species": "product",
-            "comment": "When production is down, he is will kick your ass"
+            "comment": "When production is down, he will kick your ass"
         },
         {
             "id": 7,
