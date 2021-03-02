@@ -1,0 +1,1 @@
+export const DEFAULT_IMG = 'https://lh3.googleusercontent.com/proxy/9jfN9f-eHx3_XiEqaba3lhspxU2WCQUMyVfyUdqNXDR92-76JxvSWAfbZwcThlAQHNglQaSh0-lm5vI9WmbXaWu373qRTm6CAZVaq5XGkxHcyva8D_7erlrRgXr6mwZ7bQ';

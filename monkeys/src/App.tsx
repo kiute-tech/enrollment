@@ -7,7 +7,9 @@ import {
 import Header from './components/header';
 import Home from './pages/home';
 import Babouin from './pages/babouin';
-import Macaque from './pages/macaque';
+import Macaques from './pages/macaques';
+
+import { DEFAULT_IMG } from './utils/constants';
 
 function App() {
   return (
@@ -15,7 +17,7 @@ function App() {
         <Header />
         <Switch>
             <Route path="/macaque">
-                <Macaque />
+                <Macaques img={DEFAULT_IMG} />
             </Route>
             <Route path="/babouin">
                 <Babouin />
